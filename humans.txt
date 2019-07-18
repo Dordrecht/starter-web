@@ -3,7 +3,7 @@
 
 # TEAM
 
-    Gerry Stanford gstanford@thorlabs.com
+    Gerry Stanford gstanford@thorlabs.com 
 
 # THANKS
 
