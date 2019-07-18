@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gerry Stanford gstanford@thorlabs.com
 
 # THANKS
 
